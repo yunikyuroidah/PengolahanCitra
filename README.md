@@ -87,7 +87,4 @@ Hasil pemrosesan akan otomatis tersimpan di folder `outputs/`.
 - [NumPy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
 
----
 
-## 👤 Pengembang
-- **Yuni Kyuroidah** ([@yunikyuroidah](https://github.com/yunikyuroidah))
